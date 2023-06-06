@@ -1,0 +1,19 @@
+Package: w2tools
+Type: Package
+Title: CE-QUAL-W2 Model Pre and Post Processing Tools
+Version: 0.1.0
+Authors@R: 
+    c(person(given = "Ryan",
+           family = "Michie",
+           role = c("aut", "cre"),
+           email = "Ryan.Michie@deq.oregon.gov"))
+Description: R package to assist pre and post processing of CE-QUAL-W2 models.
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr (>= 0.8.3),
+    lubridate (>= 1.7),
+    janitor (>= 2.1.0),
+    magrittr (>= 2.0.1),
+    tidyr (>= 1.0.0),
+RoxygenNote: 7.2.1
