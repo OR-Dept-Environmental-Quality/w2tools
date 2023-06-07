@@ -4,9 +4,9 @@
 \name{w2tools-package}
 \alias{w2tools}
 \alias{w2tools-package}
-\title{w2tools: CE-QUAL-W2 Model Pre and Post Processing Tools}
+\title{w2tools: CE-QUAL-W2 Model Post Processing Tools}
 \description{
-R package to assist pre and post processing of CE-QUAL-W2 models.
+R package to assist post processing of CE-QUAL-W2 model outputs.
 }
 \author{
 \strong{Maintainer}: Ryan Michie \email{Ryan.Michie@deq.oregon.gov}
